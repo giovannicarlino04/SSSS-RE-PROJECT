@@ -1,0 +1,14 @@
+C:\Users\Giovanni Carlino\Desktop\Repos\SSSS-RE-PROJECT\SSSSReborn\SSSSModCreator\bin\Debug\SSSSModCreator.exe.config
+C:\Users\Giovanni Carlino\Desktop\Repos\SSSS-RE-PROJECT\SSSSReborn\SSSSModCreator\bin\Debug\SSSSModCreator.exe
+C:\Users\Giovanni Carlino\Desktop\Repos\SSSS-RE-PROJECT\SSSSReborn\SSSSModCreator\bin\Debug\SSSSModCreator.pdb
+C:\Users\Giovanni Carlino\Desktop\Repos\SSSS-RE-PROJECT\SSSSReborn\SSSSModCreator\obj\Debug\SSSSModCreator.csproj.AssemblyReference.cache
+C:\Users\Giovanni Carlino\Desktop\Repos\SSSS-RE-PROJECT\SSSSReborn\SSSSModCreator\obj\Debug\SSSSModCreator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Giovanni Carlino\Desktop\Repos\SSSS-RE-PROJECT\SSSSReborn\SSSSModCreator\obj\Debug\SSSSModCreator.Form1.resources
+C:\Users\Giovanni Carlino\Desktop\Repos\SSSS-RE-PROJECT\SSSSReborn\SSSSModCreator\obj\Debug\SSSSModCreator.Properties.Resources.resources
+C:\Users\Giovanni Carlino\Desktop\Repos\SSSS-RE-PROJECT\SSSSReborn\SSSSModCreator\obj\Debug\SSSSModCreator.csproj.GenerateResource.cache
+C:\Users\Giovanni Carlino\Desktop\Repos\SSSS-RE-PROJECT\SSSSReborn\SSSSModCreator\obj\Debug\SSSSModCreator.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni Carlino\Desktop\Repos\SSSS-RE-PROJECT\SSSSReborn\SSSSModCreator\obj\Debug\SSSSModCreator.exe
+C:\Users\Giovanni Carlino\Desktop\Repos\SSSS-RE-PROJECT\SSSSReborn\SSSSModCreator\obj\Debug\SSSSModCreator.pdb
+C:\Games\Saint Seiya Soldiers Soul\SSSSReborn\SSSSModCreator.exe.config
+C:\Games\Saint Seiya Soldiers Soul\SSSSReborn\SSSSModCreator.exe
+C:\Games\Saint Seiya Soldiers Soul\SSSSReborn\SSSSModCreator.pdb

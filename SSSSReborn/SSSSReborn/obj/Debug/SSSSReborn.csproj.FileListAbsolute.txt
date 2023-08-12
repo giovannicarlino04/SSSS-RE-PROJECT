@@ -1,0 +1,14 @@
+C:\Users\Giovanni Carlino\Desktop\Repos\SSSS-RE-PROJECT\SSSSReborn\SSSSReborn\bin\Debug\SSSSReborn.exe.config
+C:\Users\Giovanni Carlino\Desktop\Repos\SSSS-RE-PROJECT\SSSSReborn\SSSSReborn\bin\Debug\SSSSReborn.exe
+C:\Users\Giovanni Carlino\Desktop\Repos\SSSS-RE-PROJECT\SSSSReborn\SSSSReborn\bin\Debug\SSSSReborn.pdb
+C:\Users\Giovanni Carlino\Desktop\Repos\SSSS-RE-PROJECT\SSSSReborn\SSSSReborn\obj\Debug\SSSSReborn.csproj.AssemblyReference.cache
+C:\Users\Giovanni Carlino\Desktop\Repos\SSSS-RE-PROJECT\SSSSReborn\SSSSReborn\obj\Debug\SSSSReborn.csproj.SuggestedBindingRedirects.cache
+C:\Users\Giovanni Carlino\Desktop\Repos\SSSS-RE-PROJECT\SSSSReborn\SSSSReborn\obj\Debug\SSSSReborn.Properties.Resources.resources
+C:\Users\Giovanni Carlino\Desktop\Repos\SSSS-RE-PROJECT\SSSSReborn\SSSSReborn\obj\Debug\SSSSReborn.csproj.GenerateResource.cache
+C:\Users\Giovanni Carlino\Desktop\Repos\SSSS-RE-PROJECT\SSSSReborn\SSSSReborn\obj\Debug\SSSSReborn.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni Carlino\Desktop\Repos\SSSS-RE-PROJECT\SSSSReborn\SSSSReborn\obj\Debug\SSSSReborn.exe
+C:\Users\Giovanni Carlino\Desktop\Repos\SSSS-RE-PROJECT\SSSSReborn\SSSSReborn\obj\Debug\SSSSReborn.pdb
+C:\Users\Giovanni Carlino\Desktop\Repos\SSSS-RE-PROJECT\SSSSReborn\SSSSReborn\obj\Debug\SSSSReborn.Form1.resources
+C:\Games\Saint Seiya Soldiers Soul\SSSSReborn\SSSSReborn.exe.config
+C:\Games\Saint Seiya Soldiers Soul\SSSSReborn\SSSSReborn.exe
+C:\Games\Saint Seiya Soldiers Soul\SSSSReborn\SSSSReborn.pdb
